@@ -9,7 +9,7 @@
 		<version>3.4.5</version>
 	</parent>
 
-	<groupId>com.bosch.ps.sb</groupId>
+	<groupId>com.tools.project</groupId>
 	<artifactId>tools-test-project</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>tools-test-project</name>
